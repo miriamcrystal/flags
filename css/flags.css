@@ -1,11 +1,12 @@
 body {
   font-family: 'Lato', sans-serif;
   line-height: 1.5;
-  background-color: grey;
+  background-color: #EDEDB2;
 }  
   
 
 h1 {
 	font-family: arial; 
-  	font-size: 40px;
+  	font-size: 60px;
+  	margin-left: 40px;
 }  	

@@ -6,13 +6,14 @@ var ctx = canvas.getContext('2d');
 // the pixels
 ctx.translate(0.5, 0.5);
 
+
 ctx.fillStyle = "green";
-ctx.fillRect(10, 30, 100, 300);
+ctx.fillRect(40, 30, 200, 300);
 
 ctx.fillStyle = "white";
-ctx.fillRect(110, 30, 100, 300);
+ctx.fillRect(240, 30, 200, 300);
 
 ctx.fillStyle = "red";
-ctx.fillRect(210, 30, 100, 300);
+ctx.fillRect(440, 30, 200, 300);
 
 
